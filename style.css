@@ -1,0 +1,11 @@
+.form-group{
+    background-color:rgba(245, 100, 42, 0.808);
+    color:wheat;
+}
+.form-control{
+    color:rgba(67, 233, 191, 0.883);
+     
+}
+body{
+    background-color: rgb(205, 151, 50);
+}
